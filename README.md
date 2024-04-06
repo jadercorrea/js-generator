@@ -1,4 +1,4 @@
-# JS Gerenator
+# JS Generator
 Vim shortcut for easy adding new JS code to your JS application. It creates a lib and a test file for you to start coding.
 
 #### Self-generate modules and unit tests
