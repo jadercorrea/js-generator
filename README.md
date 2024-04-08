@@ -15,9 +15,13 @@ if you type `shopping/cart`, it will generate two files:
 class Cart {
   someMethod(opts = []) {
     if (opts.length === 0) {
-      return { status: 'ok' };
+      return {
+        status: 'ok'
+      };
     } else {
-      return { status: 'ok', data: opts };
+      return {
+        status: 'ok', data: opts
+      };
     }
   }
 
